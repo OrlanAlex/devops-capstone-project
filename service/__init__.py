@@ -37,4 +37,3 @@ except Exception as error:  # pylint: disable=broad-except
     sys.exit(4)
 
 app.logger.info("Service initialized!")
-#added comments 8pm 6/25
